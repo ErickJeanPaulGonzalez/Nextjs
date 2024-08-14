@@ -1,0 +1,8 @@
+Se subio el archivo .env para facilitar el uso de la aplicacion, porfavor 
+ejecutar los siguientes comandos despues de copiar el repositorio, si esta viendo este archivo esta en la ruta correcta
+
+1)npm install
+2)npx prisma migrate dev
+3)npm run dev
+4)npx prisma studio 
+
